@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+
+.vscode/
+
+# DEAM audio
+*.mp3
+*.wav
+*.flac
+
+# Generated features
+*.npy
+
+# Keep project directories
+!data/.gitkeep
+!features/.gitkeep
+!scripts/.gitkeep
