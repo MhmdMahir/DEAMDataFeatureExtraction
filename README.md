@@ -275,8 +275,21 @@ DeamFeatureExtraction/
 ```
 ---
 ---
+# Data Attribution
+This project uses data from the DEAM (MediaEval Database for Emotional Analysis of Music) dataset, developed by Anna Aljanaki, Yi-Hsuan Yang, and Mohammad Soleymani. <br>
+[DEAM Dataset - University of Geneva](https://cvml.unige.ch/databases/DEAM/)
+
+If you use this repository or its processed data, please also cite:
+
+> Aljanaki, A., Yang, Y.-H., & Soleymani, M. (2017). Developing a benchmark for emotional analysis of music. PLOS ONE, 12(3), e0173392. https://doi.org/10.1371/journal.pone.0173392
+
+## License and Usage
+
+The original DEAM dataset is distributed under a Non-Commercial Creative Commons (BY-NC) license. Please refer to the original dataset's terms of use before redistributing or using the data, particularly for commercial purposes.<br>
+This repository contains processed/derived data generated from the original DEAM dataset. It is not the original DEAM dataset.<br>
+For the original dataset, annotations, audio, features, and complete terms of use, please refer to the official DEAM website and manual. <br>
+
 
 ## Author
-
 **Mohamed Mahir**
 > Project: Song Recommendation System Based on User Emotion
